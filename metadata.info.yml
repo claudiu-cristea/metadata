@@ -1,0 +1,4 @@
+type: module
+name: Metadata
+description: 'Provides the API to deal with files and resources metadata in in a centralized way'
+core: '8.x'

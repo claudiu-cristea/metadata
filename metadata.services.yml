@@ -1,0 +1,4 @@
+services:
+  plugin.manager.metadata.standards:
+    class: Drupal\metadata\MetadataStandardsManager
+    parent: default_plugin_manager
